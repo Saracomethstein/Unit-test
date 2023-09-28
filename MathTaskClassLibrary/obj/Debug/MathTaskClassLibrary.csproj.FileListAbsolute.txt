@@ -1,0 +1,6 @@
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Unit-test\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Unit-test\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.pdb
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Unit-test\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.AssemblyReference.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Unit-test\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Unit-test\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.dll
+C:\Users\adels\OneDrive\Desktop\All\Dev\C#\GitHub\Unit-test\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.pdb

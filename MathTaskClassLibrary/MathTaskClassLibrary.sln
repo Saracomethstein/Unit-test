@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTaskClassLibrary", "MathTaskClassLibrary.csproj", "{D1B91C93-B59C-48B2-890B-DB58F928BD2D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathTaskClassLibraryTests", "..\MathTaskClassLibraryTests\MathTaskClassLibraryTests.csproj", "{EEEDC3DA-E849-4C8C-B789-CD6F4F13D4F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D1B91C93-B59C-48B2-890B-DB58F928BD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1B91C93-B59C-48B2-890B-DB58F928BD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1B91C93-B59C-48B2-890B-DB58F928BD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEEDC3DA-E849-4C8C-B789-CD6F4F13D4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEDC3DA-E849-4C8C-B789-CD6F4F13D4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEDC3DA-E849-4C8C-B789-CD6F4F13D4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEDC3DA-E849-4C8C-B789-CD6F4F13D4F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
